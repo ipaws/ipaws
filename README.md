@@ -7,11 +7,7 @@
 <h3>👩🏻‍💻 < Geek/ > | 💻 iOS Developer | 📍 CDMX  </h3>
 </div>
    
-<p align='center'>
-  Connect with me:
-  <br>
-<a href="https://twitter.com/PawizAcked"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   </p>
+
 
 
 
@@ -31,6 +27,12 @@
  - Engineering student at UNAM FI 📚
  <br>
 <br>
+   </p>
+   
+   <p align='center'>
+  Connect with me:
+  <br>
+<a href="https://twitter.com/PawizAcked"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
    </p>
    
 
